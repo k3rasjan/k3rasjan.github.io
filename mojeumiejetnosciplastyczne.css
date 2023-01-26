@@ -155,6 +155,7 @@ footer {
   font-size: 4vh;
   border: none;
   background-color: pink;
+  left: 0;
 }
 
 #bibliografia p {
