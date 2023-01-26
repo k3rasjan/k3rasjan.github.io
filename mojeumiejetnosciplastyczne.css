@@ -104,6 +104,7 @@ h1 {
   display: flex;
   justify-content: center;
   padding-bottom: 2em;
+  width: 70%;
 }
 
 #hotFocia {
@@ -146,12 +147,12 @@ footer {
 
 #bibliografia {
   display: flex;
-  height: 2em;
+  height: 6vh;
   padding: 0.25em;
   background: none;
   border-top-left-radius: 1em;
   border-top-right-radius: 1em;
-  font-size: 2em;
+  font-size: 4vh;
   border: none;
   background-color: pink;
 }
